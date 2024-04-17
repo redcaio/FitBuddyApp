@@ -1,0 +1,21 @@
+{
+    "background_color": "#141d22",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "FitBuddyApp",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "FitBuddyApp",
+    "start_url": "/fitbuddyapp",
+    "theme_color": "#141d22",
+    "categories": [
+      "fitness",
+      "health",
+      "lifestyle",
+      "productivity",
+      "sports",
+      "utilities"
+    ],
+    "description": "App destinado a pessoas que querem ter uma vida saudável, ajudando a encontrar meios de se exercitar, locais abertos para realizar atividades físicas, academias entre outros tipos de funcionalidade.",
+    "lang": "pt"
+  }
